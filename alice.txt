@@ -3598,4 +3598,9 @@ remembering her own child-life, and the happy summer days.
                              THE END
 
 #Commit 1
+<<<<<<< HEAD
 #Commit on local PC
+=======
+#Commit 2
+#Commit on site
+>>>>>>> origin/master
